@@ -1,0 +1,113 @@
+body{
+    background-color: yellow;
+}
+
+.butt{
+    width: 100px;
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border: 10px black solid;
+    border-radius: 13px;
+    padding-right: 300px;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: bisque;
+
+}
+
+.btn{
+    margin-top: 23px;
+}
+
+.text, .tex, .te, .t, .email, .pwd1, .pwd2{
+    width: 350px;
+    margin-top: 10px;
+    border: 1px black solid;
+    border-radius: 40px;
+    height: 30px;
+}
+
+
+header{
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: bisque;
+    background-color: black;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border: 10px black;
+    border-radius: 10px;
+}
+
+.text{
+    margin-bottom: 10px;
+
+}
+.tex{
+    margin-bottom: 18px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.email{
+    margin-bottom: 18px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.pwd1, .pwd2{
+    margin-bottom: 18px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+
+.age{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: bold;
+}
+
+.t{
+    margin-bottom: 10px;
+}
+
+.btn{
+    color: black;
+    background-color: aqua;
+    border: black 2px solid;
+    border-radius: 10px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+label{
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.items-occ{
+    height: 30px;
+    padding-left: 1px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
